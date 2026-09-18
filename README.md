@@ -46,6 +46,7 @@ I'm an IT & Data professional with strong SQL, relational databases, and data pr
 ### 👥 Employee Performance Analysis
 
 Analyzing employee timesheet and task data to identify employee performance, productivity and workload.
+
 **Tech Stack:** MySQL | Power BI
 **Key analysis:**
 
@@ -55,7 +56,7 @@ Analyzing employee timesheet and task data to identify employee performance, pro
 * Top & bottom performers
 * Monthly performance trends
 
-**View Project** → [Employee Performance Analysis](Employee-Performance-Analysis)
+**View Project** → [Employee Performance Analysis](https://github.com/priskilapenny/Employee-Performance-Analysis)
 
 ---
 
@@ -71,7 +72,7 @@ Analyzing transaction data to uncover sales trends and product performance.
 * Takeaway vs. in-store orders
 * Sales KPIs
 
-**View Project** → [Sales Analysis](Cafe-Sales-Analysis)
+**View Project** → [Sales Analysis](https://github.com/priskilapenny/Cafe-Sales-Analysis)
 
 ---
 
@@ -88,7 +89,7 @@ Analyzing e-commerce delivery and logistics data to evaluate delivery performanc
 * Warehouse processing time vs. delivery delays
 * Operational KPIs
 
-**View Project** → [E-commerce Shipping & Logistics Analysis](Ecommerce-Delivery-Analysis)
+<!-- **View Project** → [E-commerce Shipping & Logistics Analysis](Ecommerce-Delivery-Analysis) -->
 
 ---
 
