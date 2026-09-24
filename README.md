@@ -47,7 +47,8 @@ I'm an IT & Data professional with strong SQL, relational databases, and data pr
 
 Analyzing employee timesheet and task data to identify employee performance, productivity and workload.
 
-**Tech Stack:** MySQL | Power BI
+**Tech Stack:** SQL | Power BI
+
 **Key analysis:**
 
 * Work hours & task completion
@@ -65,6 +66,7 @@ Analyzing employee timesheet and task data to identify employee performance, pro
 Analyzing transaction data to uncover sales trends and product performance.
 
 **Tech Stack:** Excel | Power Query | Pivot Tables
+
 **Key analysis:**
 
 * Monthly and weekly sales trends
@@ -76,11 +78,12 @@ Analyzing transaction data to uncover sales trends and product performance.
 
 ---
 
-### 🚚 E-commerce Shipping & Logistics Analysis
+### 🚚 E-commerce Delivery Analysis
 
 Analyzing e-commerce delivery and logistics data to evaluate delivery performance, shipping costs, warehouse operations, and customer experience.
 
 **Tech Stack:** Power BI | DAX | SQL
+
 **Key analysis:**
 
 * Shipping cost analysis
@@ -89,7 +92,7 @@ Analyzing e-commerce delivery and logistics data to evaluate delivery performanc
 * Warehouse processing time vs. delivery delays
 * Operational KPIs
 
-<!-- **View Project** → [E-commerce Shipping & Logistics Analysis](Ecommerce-Delivery-Analysis) -->
+**View Project** → [Ecommerce-Delivery-Analysis](https://github.com/priskilapenny/Ecommerce-Delivery-Analysis)
 
 ---
 
