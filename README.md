@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Data Analyst | SQL | Power BI | Excel
 
-I'm an IT & Data professional with strong SQL, relational databases, and data processing. Currently developing proficiency in Data Analytics, Excel, Power BI, and Python while building hands-on projects focused on business and operational analysis.
+IT and Data Professional with 7+ years of experience in database development, SQL, data processing, and business reporting. Skilled in SQL query optimization, database management, data validation, ETL processes, and REST API development. Currently focusing on data analytics and business intelligence, with hands-on portfolio projects using SQL, Excel, and Power BI to deliver data-driven insights.
 
 ---
 
@@ -33,11 +33,11 @@ I'm an IT & Data professional with strong SQL, relational databases, and data pr
 
 **Tools & Technologies**
 
-* **SQL:** MySQL, SQL Server, PostgreSQL
-* **Power BI:** Data Modeling, DAX, Dashboard Development
+* **SQL:** MySQL, SQL Server
+* **Power BI:** Data Modeling, DAX, Power Query, Dashboard Development
 * **Excel:** Lookup Function, Pivot Tables, Power Query, Data Visualization
 * **Programming:** PHP, Laravel
-* **Others:** Git, REST API, Postman
+* **Others:** REST API, Postman, GitHub
 
 ---
 
@@ -119,6 +119,6 @@ I'm currently building my career toward **Data Analyst / Data Specialist** roles
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [Priskila Penny Ardiana](www.linkedin.com/in/priskilapennyardiana)
-* 📧 Email: [priskilapennya@gmail.com](priskilapennya@gmail.com)
-* 🐙 GitHub: [priskilapenny](https://github.com/priskilapenny)
+💼 LinkedIn: [Priskila Penny Ardiana](www.linkedin.com/in/priskilapennyardiana) <br />
+📧 Email: [priskilapennya@gmail.com](priskilapennya@gmail.com) <br />
+🐙 GitHub: [priskilapenny](https://github.com/priskilapenny)
