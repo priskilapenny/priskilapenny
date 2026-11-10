@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Data Analyst | SQL | Power BI | Excel
-
 IT and Data Professional with 7+ years of experience in database development, SQL, data processing, and business reporting. Skilled in SQL query optimization, database management, data validation, ETL processes, and REST API development. Currently focusing on data analytics and business intelligence, with hands-on portfolio projects using SQL, Excel, and Power BI to deliver data-driven insights.
 
 ---
 
 ## 🛠️ Skills
 
-**Data Analytics**
+<!-- **Data Analytics**
 
 * SQL
 * Data Cleaning & Transformation
@@ -31,17 +29,18 @@ IT and Data Professional with 7+ years of experience in database development, SQ
 * Business Analysis
 * Data Visualization
 
-**Tools & Technologies**
+**Tools & Technologies** -->
 
 * **SQL:** MySQL, SQL Server
 * **Power BI:** Data Modeling, DAX, Power Query, Dashboard Development
 * **Excel:** Lookup Function, Pivot Tables, Power Query, Data Visualization
 * **Programming:** PHP, Laravel
 * **Others:** REST API, Postman, GitHub
+* **Data Analytics:** Data Cleaning & Transformation, Exploratory Data Analysis, Data Visualization
 
 ---
 
-## 📊 Featured Projects
+## 📊 Data Analysis Projects
 
 ### 👥 Employee Performance Analysis
 
@@ -96,6 +95,26 @@ Analyzing e-commerce delivery and logistics data to evaluate delivery performanc
 
 ---
 
+## 🗂 Database & API Development Projects
+
+### 📄 Invoicing Management Systems
+
+This project documents the design and implementation of a relational database and REST API developed to support an invoicing system application backend for Accommodation and Property Management.
+
+**Tech Stack:** MySQL | SQL | Python | Django
+
+**View Project Detail** → [Invoicing-Management-System](https://github.com/priskilapenny/Invoicing-Management-System)
+
+---
+
+### 🔗 Student Assessment Systems
+
+**Tech Stack:** MySQL | SQL | PHP | Laravel
+
+**View Project Detail** → Student-Assessment-Systems
+
+---
+
 ## 🌱 Currently Learning
 
 * Advanced SQL for Data Analysis
@@ -106,7 +125,7 @@ Analyzing e-commerce delivery and logistics data to evaluate delivery performanc
 
 ---
 
-## 🎯 Career Focus
+<!-- ## 🎯 Career Focus
 
 I'm currently building my career toward **Data Analyst / Data Specialist** roles, with a particular interest in:
 
@@ -115,7 +134,7 @@ I'm currently building my career toward **Data Analyst / Data Specialist** roles
 * SQL & Database Analytics
 * Data Visualization
 
----
+--- -->
 
 ## 📫 Connect With Me
 
