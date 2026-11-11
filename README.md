@@ -97,13 +97,13 @@ Analyzing e-commerce delivery and logistics data to evaluate delivery performanc
 
 ## 🗂 Database & API Development Projects
 
-### 📄 Invoicing Management Systems
+### 📄 Invoicing Management
 
 This project documents the design and implementation of a relational database and REST API developed to support an invoicing system application backend for Accommodation and Property Management.
 
-**Tech Stack:** MySQL | SQL | Python | Django
+**Tech Stack:** MySQL | SQL | Stored Procedures | Python | Django
 
-**View Project Detail** → [Invoicing-Management-System](https://github.com/priskilapenny/Invoicing-Management-System)
+**View Project Detail** → [Invoicing-Management](https://github.com/priskilapenny/Invoicing-Management)
 
 ---
 
