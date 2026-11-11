@@ -111,7 +111,7 @@ This project documents the design and implementation of a relational database an
 
 **Tech Stack:** MySQL | SQL | PHP | Laravel
 
-**View Project Detail** → Student-Assessment-Systems
+**View Project Detail** → [Student-Assessment-Systems](https://github.com/priskilapenny/Student-Assessment-Systems)
 
 ---
 
