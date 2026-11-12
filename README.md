@@ -1,44 +1,17 @@
 ## Hi there, I'm Priskila Penny Ardiana 👋
 
-<!--
-**priskilapenny/priskilapenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 IT and Data Professional with 7+ years of experience in database development, SQL, data processing, and business reporting. Skilled in SQL query optimization, database management, data validation, ETL processes, and REST API development. Currently focusing on data analytics and business intelligence, with hands-on portfolio projects using SQL, Excel, and Power BI to deliver data-driven insights.
 
----
 
 ## 🛠️ Skills
-
-<!-- **Data Analytics**
-
-* SQL
-* Data Cleaning & Transformation
-* Exploratory Data Analysis
-* Business Analysis
-* Data Visualization
-
-**Tools & Technologies** -->
 
 * **Data Analytics:** Data Cleaning & Transformation, Exploratory Data Analysis, Data Visualization
 * **SQL:** MySQL, SQL Server
 * **Power BI:** Data Modeling, DAX, Power Query, Dashboard Development
 * **Excel:** Lookup Function, Pivot Tables, Power Query, Data Visualization
-* **Programming:** PHP, Laravel
+* **Programming:** PHP, Laravel, Python
 * **Others:** REST API, Postman, GitHub
 
----
 
 ## 📌 Featured Projects
 
@@ -125,7 +98,6 @@ This project focuses on the development of a Student Assessment System designed 
 
 **View Project** → [Student-Assessment-Systems](https://github.com/priskilapenny/Student-Assessment-Systems)
 
----
 
 ## 🌱 Currently Learning
 
@@ -135,18 +107,6 @@ This project focuses on the development of a Student Assessment System designed 
 * Python for Data Analysis
 * Business & Exploratory Data Analysis
 
----
-
-<!-- ## 🎯 Career Focus
-
-I'm currently building my career toward **Data Analyst / Data Specialist** roles, with a particular interest in:
-
-* Data Analysis
-* Business Intelligence
-* SQL & Database Analytics
-* Data Visualization
-
---- -->
 
 ## 📫 Connect With Me
 
