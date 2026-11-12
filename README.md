@@ -31,18 +31,24 @@ IT and Data Professional with 7+ years of experience in database development, SQ
 
 **Tools & Technologies** -->
 
+* **Data Analytics:** Data Cleaning & Transformation, Exploratory Data Analysis, Data Visualization
 * **SQL:** MySQL, SQL Server
 * **Power BI:** Data Modeling, DAX, Power Query, Dashboard Development
 * **Excel:** Lookup Function, Pivot Tables, Power Query, Data Visualization
 * **Programming:** PHP, Laravel
 * **Others:** REST API, Postman, GitHub
-* **Data Analytics:** Data Cleaning & Transformation, Exploratory Data Analysis, Data Visualization
 
 ---
 
-## 📊 Data Analysis Projects
+## 📌 Featured Projects
 
-### 👥 Employee Performance Analysis
+### 📊 Data Analytics Projects
+
+_Personal portfolio projects showcasing practical data analysis, visualization, and business insights._
+
+---
+
+### Employee Performance Analysis
 
 Analyzing employee timesheet and task data to identify employee performance, productivity and workload.
 
@@ -60,24 +66,7 @@ Analyzing employee timesheet and task data to identify employee performance, pro
 
 ---
 
-### ☕ Sales Analysis
-
-Analyzing transaction data to uncover sales trends and product performance.
-
-**Tech Stack:** Excel | Power Query | Pivot Tables
-
-**Key analysis:**
-
-* Monthly and weekly sales trends
-* Product performance
-* Takeaway vs. in-store orders
-* Sales KPIs
-
-**View Project** → [Sales Analysis](https://github.com/priskilapenny/Cafe-Sales-Analysis)
-
----
-
-### 🚚 E-commerce Delivery Analysis
+### E-commerce Delivery Analysis
 
 Analyzing e-commerce delivery and logistics data to evaluate delivery performance, shipping costs, warehouse operations, and customer experience.
 
@@ -95,23 +84,46 @@ Analyzing e-commerce delivery and logistics data to evaluate delivery performanc
 
 ---
 
-## 🗂 Database & API Development Projects
+### Sales Analysis
 
-### 📄 Invoicing Management
+Analyzing transaction data to uncover sales trends and product performance.
+
+**Tech Stack:** Excel | Power Query | Pivot Tables
+
+**Key analysis:**
+
+* Monthly and weekly sales trends
+* Product performance
+* Takeaway vs. in-store orders
+* Sales KPIs
+
+**View Project** → [Sales Analysis](https://github.com/priskilapenny/Cafe-Sales-Analysis)
+
+---
+
+### 📁 Professional Projects
+
+_Selected projects developed during my previous work experience._
+
+---
+
+### Invoicing Management
 
 This project documents the design and implementation of a relational database and REST API developed to support an invoicing system application backend for Accommodation and Property Management.
 
 **Tech Stack:** MySQL | SQL | Stored Procedures | Python | Django
 
-**View Project Detail** → [Invoicing-Management](https://github.com/priskilapenny/Invoicing-Management)
+**View Project** → [Invoicing-Management](https://github.com/priskilapenny/Invoicing-Management)
 
 ---
 
-### 🔗 Student Assessment Systems
+### Student Assessment Systems
+
+This project focuses on the development of a Student Assessment System designed to manage student academic records and assessment processes. The system involves relational database design, database implementation, SQL query development, and API development using PHP Laravel.
 
 **Tech Stack:** MySQL | SQL | PHP | Laravel
 
-**View Project Detail** → [Student-Assessment-Systems](https://github.com/priskilapenny/Student-Assessment-Systems)
+**View Project** → [Student-Assessment-Systems](https://github.com/priskilapenny/Student-Assessment-Systems)
 
 ---
 
